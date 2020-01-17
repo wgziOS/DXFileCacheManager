@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "DXFileCacheManager"
-  s.version      = "0.0.7"
+  s.version      = "0.0.8"
   s.summary      = "good"
   s.description  = 'this is a good tool'
 
@@ -39,11 +39,11 @@ Pod::Spec.new do |s|
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
 
-  s.source       = { :git => "https://github.com/wgziOS/DXFileCacheManager", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/wgziOS/DXFileCacheManager.git", :tag => "v#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  #
+  #https://github.com/wgziOS/DXFileCacheManager.git
   #  CocoaPods is smart about how it includes source code. For source files
   #  giving a folder will include any swift, h, m, mm, c & cpp files.
   #  For header files it will include any header in the folder.
