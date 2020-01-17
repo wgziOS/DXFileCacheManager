@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "DXFileCacheManager"
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   s.summary      = "good"
   s.description  = 'this is a good tool'
 
