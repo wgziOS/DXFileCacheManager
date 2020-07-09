@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author       = { "Simple" => "547256553@qq.com" }
     s.source       = { :git => "https://github.com/wgziOS/DXFileCacheManager.git", :tag => "1.0.3" }
-    s.source_files  = "DXFileCacheManager/DXFileCacheManager/*.{h,m} "
+    s.source_files  = "FileCacheManager/*.{h,m} "
     s.requires_arc = true
 end
